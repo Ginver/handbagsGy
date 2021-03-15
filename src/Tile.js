@@ -5,7 +5,7 @@ function Tile ({ image, title, tekst }) {
     if (image) {
         return (
             <article className="product-tiles">
-            <img src={image} alt={title}/>
+                <img src={image} alt={title}/>
             </article>
         )
     } else {
