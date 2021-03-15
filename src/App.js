@@ -87,9 +87,7 @@ function App() {
     <Tile
         image={brand}
     />
-    {/*<section>*/}
-    {/*    <img src="./assets/brand.png"/>*/}
-    {/*</section>*/}
+
     <Tile
         image={our_story}
     />
